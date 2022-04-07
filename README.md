@@ -2,6 +2,7 @@
 
 ## ChampSim:
 Original repo: https://github.com/ChampSim/ChampSim
+
 replacement/base_replacement.cc is updated to output the traces textfiles. 
 Traces (from pintool) need to be put inside the folder "dpc3_traces" to be found.  
 
