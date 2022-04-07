@@ -19,4 +19,4 @@ Traces (from pintool) need to be put inside the folder "dpc3_traces" to be found
 
 ### multi_heatmap.py: create heatmaps (full & miss) and put them into corresponding directories (tracescrubbing-master/data/train_image or mask). Need to change paths.
 
-
+## complete_traces contains all uncut trace textfiles (to be the input of rolling_traces.py)  
