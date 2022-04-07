@@ -7,7 +7,7 @@ replacement/base_replacement.cc is updated to output the traces textfiles.
 Traces (from pintool) need to be put inside the folder "dpc3_traces" to be found.  
 
 
-## Inside updated tracescrubbing-master: 
+## Inside the updated tracescrubbing-master: 
 
 ### genheatmap.py + heatmap_generator.py + trace_generator.py are used to create heatmaps (for each trace textfile). 
   USAGE: python genheatmap.py <trace_path> <window_size> <"full"/"miss">
