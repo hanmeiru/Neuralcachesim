@@ -24,4 +24,4 @@ Traces (from pintool) need to be put inside the folder "dpc3_traces" to be found
 
 Need to change train_path, mask_path, and trace_folder.
 
-## complete_traces contains all uncut trace textfiles (to be the input of rolling_traces.py)  
+## "complete_traces" contains all uncut trace textfiles (to be the input of rolling_traces.py)  
